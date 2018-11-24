@@ -264,14 +264,7 @@ public class frmAgregaProg extends javax.swing.JDialog {
 
     private void btnLimpiarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLimpiarActionPerformed
         // TODO add your handling code here:
-        txtId.setText(null);
-        txtTitulo.setText(null);
-        cmbGenero.setSelectedIndex(0);
-        txtDuracion.setText(null);
-        cmbIdioma.setSelectedIndex(0);
-        cmbClasif.setSelectedIndex(0);
-        rdb2D.setSelected(true);
-        lblImagen.setIcon(null);
+    
     }//GEN-LAST:event_btnLimpiarActionPerformed
 
     private void btnGuardarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnGuardarActionPerformed
